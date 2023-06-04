@@ -1,0 +1,42 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluIiwibmJmIjoxNjg1Njk0NjcyLCJleHAiOjE2ODU3MTI2NzIsImlhdCI6MTY4NTY5NDY3Mn0.qo-NiCWpv0ZMj7NmLyw7nYx1VeT2ontWchrnmWdRGK0
+
+{
+  "OrgId": 5,
+  "ClientId": "S005",
+  "ClientName": "string",
+  "AddressLine1": "string",
+  "AddressLine2": "string",
+  "AddressLine3": "string",
+  "Country": "string",
+  "PostalCode": "string",
+  "MobileNo": "string",
+  "FaxNo": "string",
+  "EmailId": "string",
+  "PaymentTerm": "string",
+  "Currency": "string",
+  "TaxCode": 0,
+  "TaxType": "string",
+  "TaxPerc": 0,
+  "ContactPerson": "string",
+  "ContactNo": "string",
+  "IsActive": true,
+  "CreatedBy": "string",
+  "CreatedOn": "2023-06-03T10:42:45.976Z",
+  "ChangedBy": "string",
+  "ChangedOn": "2023-06-03T10:42:45.976Z",
+  "Password": "string",
+  "ClientSocialMediaList": [
+    {
+      "OrgId": 5,
+      "ClientId": "string",
+      "SlNo": 0,
+      "SocialMediaId": "string",
+      "SocialMediaName": "string",
+      "SocialMediaLink": "string",
+      "UserName": "string",
+      "Password": "string",
+      "CreatedBy": "string",
+      "CreatedOn": "2023-06-03T10:42:45.977Z"
+    }
+  ]
+}
